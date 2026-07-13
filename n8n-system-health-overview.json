@@ -21,7 +21,7 @@
         }
       ]
     },
-    "description": "Monitor your n8n workflow automation platform with this comprehensive Node.js runtime and application health dashboard. Tracks CPU, memory, heap usage, garbage collection, event loop performance, and cluster status using n8n's native Prometheus metrics.  \r\n\r\nhttps://github.com/nluecke/grafana-n8n-dashboards/tree/main/dashboards/prometheus",
+    "description": "Monitor your n8n workflow automation platform with this health dashboard. Tracks CPU, memory, heap usage, garbage collection, event loop performance, and cluster status using n8n's native Prometheus metrics.  \r\n\r\nhttps://github.com/nluecke/grafana-n8n-dashboards/tree/main/dashboards/prometheus",
     "editable": true,
     "fiscalYearStartMonth": 0,
     "gnetId": 24474,
